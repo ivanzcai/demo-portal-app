@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="Consultant-Portal-App-Test" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/ivan/Dropbox/work/TRAINING/ConsultantPortalDevOps/Consultant-Portal-App/Consultant-Portal-App/obj/Release/netcoreapp2\.1/PubTmp/Out/$" />
-  </parameter>
-</parameters>
