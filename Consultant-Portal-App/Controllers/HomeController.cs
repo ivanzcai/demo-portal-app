@@ -29,6 +29,15 @@ namespace Consultant_Portal_App.Controllers
             return View();
         }
 
+        public IActionResult News()
+        {
+            ViewData["Message"] = "Your news page.";
+
+            return View();
+        }
+
+
+
         public IActionResult Privacy()
         {
             return View();

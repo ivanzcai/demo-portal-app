@@ -30,3 +30,4 @@
 /Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Consultant-Portal-App/obj/Debug/netcoreapp2.1/Demo-Portal-App.dll
 /Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Consultant-Portal-App/obj/Debug/netcoreapp2.1/Demo-Portal-App.pdb
 /Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Consultant-Portal-App/obj/Debug/netcoreapp2.1/Demo-Portal-App.csproj.CopyComplete
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Consultant-Portal-App/obj/Debug/netcoreapp2.1/Razor/Views/Home/News.g.cshtml.cs
