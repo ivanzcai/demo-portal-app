@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{E61ECEE4-3BEE-4EF6-8EAE-1D21EF54E69E}|Default">
   <MonoDevelop.Ide.ItemProperties.Demo-Portal-App PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo-Portal-App-Test/HomeControllerTest.cs">
+    <Files>
+      <File FileName="Demo-Portal-App-Test/HomeControllerTest.cs" Line="18" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="Demo-Portal-App" expanded="True" selected="True">
             <Node name="Demo-Portal-App-Test" expanded="True">
               <Node name="Demo_Portal_App_Test" expanded="True">
-                <Node name="UnitTest1" expanded="True" />
+                <Node name="HomeControllerTest" expanded="True" />
               </Node>
             </Node>
           </Node>
