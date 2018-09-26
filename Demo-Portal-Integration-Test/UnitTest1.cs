@@ -12,10 +12,10 @@ namespace Demo_Portal_Integration_Test
         [Fact]
         public void Test1()
         {
-            IWebDriver driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
-           // IWebDriver driver = new ChromeDriver("/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1");
+            //  IWebDriver driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+            IWebDriver driver = new ChromeDriver(Environment.GetEnvironmentVariable("ChromeWebDriver"));
 
-         
+
             //Navigate to a URL in browser
             driver.Navigate().GoToUrl("http://consultant-portal-app-test.azurewebsites.net");
 
