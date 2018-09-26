@@ -23,6 +23,7 @@ namespace Demo_Portal_Integration_Tests
             //Maximize the opened browser 
             driver.Manage().Window.Maximize();
 
+
             //Finds a Link with text "Run your app" and clicks on it.
             driver.FindElement(By.LinkText("Run your app")).Click();
             try
