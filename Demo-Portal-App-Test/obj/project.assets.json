@@ -5750,28 +5750,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/ivan/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Basant.Mishra.ASGGROUP\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-App-Test/Demo-Portal-App-Test.csproj",
+      "projectUniqueName": "C:\\Users\\Basant.Mishra.ASGGROUP\\Source\\Repos\\demo-portal-app\\Demo-Portal-App-Test\\Demo-Portal-App-Test.csproj",
       "projectName": "Demo-Portal-App-Test",
-      "projectPath": "/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-App-Test/Demo-Portal-App-Test.csproj",
-      "packagesPath": "/Users/ivan/.nuget/packages/",
-      "outputPath": "/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-App-Test/obj",
+      "projectPath": "C:\\Users\\Basant.Mishra.ASGGROUP\\Source\\Repos\\demo-portal-app\\Demo-Portal-App-Test\\Demo-Portal-App-Test.csproj",
+      "packagesPath": "C:\\Users\\Basant.Mishra.ASGGROUP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Basant.Mishra.ASGGROUP\\Source\\Repos\\demo-portal-app\\Demo-Portal-App-Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ivan/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Basant.Mishra.ASGGROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5790,21 +5792,20 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "15.8.0"
+            "version": "[15.8.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.1.0, )",
+            "autoReferenced": true
           },
           "xunit": {
             "target": "Package",
-            "version": "2.4.0"
+            "version": "[2.4.0, )"
           },
           "xunit.runner.visualstudio": {
             "target": "Package",
-            "version": "2.4.0"
-          },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.1",
-            "autoReferenced": true
+            "version": "[2.4.0, )"
           }
         },
         "imports": [
