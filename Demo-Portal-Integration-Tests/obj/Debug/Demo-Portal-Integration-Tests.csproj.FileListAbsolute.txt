@@ -1,0 +1,16 @@
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Demo-Portal-Integration-Tests.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Demo-Portal-Integration-Tests.pdb
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\obj\Debug\Demo-Portal-Integration-Tests.csprojAssemblyReference.cache
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\obj\Debug\Demo-Portal-Integration-Tests.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\obj\Debug\Demo-Portal-Integration-Tests.csproj.CopyComplete
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\obj\Debug\Demo-Portal-Integration-Tests.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\obj\Debug\Demo-Portal-Integration-Tests.pdb
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\WebDriver.dll
+C:\Users\ivan\Dropbox\work\TRAINING\DemoPortalDevOps\Demo-Portal-App\Demo-Portal-Integration-Tests\bin\Debug\WebDriver.xml

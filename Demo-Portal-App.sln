@@ -1,11 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Portal-App", "Consultant-Portal-App\Demo-Portal-App.csproj", "{E61ECEE4-3BEE-4EF6-8EAE-1D21EF54E69E}"
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Portal-App", "Consultant-Portal-App\Demo-Portal-App.csproj", "{E61ECEE4-3BEE-4EF6-8EAE-1D21EF54E69E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Portal-App-Test", "Demo-Portal-App-Test\Demo-Portal-App-Test.csproj", "{9A57B9B1-5660-4342-A698-5584AD074CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Portal-App-Test", "Demo-Portal-App-Test\Demo-Portal-App-Test.csproj", "{9A57B9B1-5660-4342-A698-5584AD074CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Portal-Integration-Test", "Demo-Portal-Integration-Test\Demo-Portal-Integration-Test.csproj", "{6AFBC1FF-D76A-43AE-9A68-1D211E44F627}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Portal-Integration-Tests", "Demo-Portal-Integration-Tests\Demo-Portal-Integration-Tests.csproj", "{7FEA8094-C4E8-460E-B0B4-D6905E256F67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +22,15 @@ Global
 		{9A57B9B1-5660-4342-A698-5584AD074CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A57B9B1-5660-4342-A698-5584AD074CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A57B9B1-5660-4342-A698-5584AD074CD3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6AFBC1FF-D76A-43AE-9A68-1D211E44F627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6AFBC1FF-D76A-43AE-9A68-1D211E44F627}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6AFBC1FF-D76A-43AE-9A68-1D211E44F627}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6AFBC1FF-D76A-43AE-9A68-1D211E44F627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEA8094-C4E8-460E-B0B4-D6905E256F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEA8094-C4E8-460E-B0B4-D6905E256F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEA8094-C4E8-460E-B0B4-D6905E256F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEA8094-C4E8-460E-B0B4-D6905E256F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78296899-3D32-4BE4-8278-CAE89B435BAA}
 	EndGlobalSection
 EndGlobal
