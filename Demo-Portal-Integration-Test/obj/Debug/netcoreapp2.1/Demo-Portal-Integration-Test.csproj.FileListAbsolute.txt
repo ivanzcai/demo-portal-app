@@ -1,0 +1,14 @@
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.deps.json
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.runtimeconfig.json
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.runtimeconfig.dev.json
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.dll
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/bin/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.pdb
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/obj/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.csprojAssemblyReference.cache
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/obj/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.csproj.CoreCompileInputs.cache
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/obj/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.AssemblyInfoInputs.cache
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/obj/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.AssemblyInfo.cs
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/obj/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.dll
+/Users/ivan/Dropbox/work/TRAINING/DemoPortalDevOps/Demo-Portal-App/Demo-Portal-Integration-Test/obj/Debug/netcoreapp2.1/Demo-Portal-Integration-Test.pdb

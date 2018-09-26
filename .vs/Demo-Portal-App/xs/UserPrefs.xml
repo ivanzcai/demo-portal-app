@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{E61ECEE4-3BEE-4EF6-8EAE-1D21EF54E69E}|Default">
   <MonoDevelop.Ide.ItemProperties.Demo-Portal-App PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Consultant-Portal-App/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo-Portal-Integration-Test/UnitTest1.cs">
     <Files>
       <File FileName="Demo-Portal-App-Test/HomeControllerTest.cs" Line="14" Column="32" />
       <File FileName="Consultant-Portal-App/Controllers/HomeController.cs" Line="36" Column="27" />
@@ -9,14 +9,15 @@
       <File FileName="Consultant-Portal-App/Views/_ViewImports.cshtml" Line="1" Column="1" />
       <File FileName="Consultant-Portal-App/Views/Home/News.cshtml" Line="18" Column="1" />
       <File FileName="Consultant-Portal-App/Views/Shared/_Layout.cshtml" Line="33" Column="81" />
+      <File FileName="Demo-Portal-Integration-Test/UnitTest1.cs" Line="16" Column="12" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Demo-Portal-App" expanded="True" selected="True">
-            <Node name="Demo-Portal-App-Test" expanded="True">
-              <Node name="Demo_Portal_App_Test" expanded="True">
-                <Node name="HomeControllerTest" expanded="True" />
+          <Node name="Demo-Portal-App" expanded="True">
+            <Node name="Demo-Portal-Integration-Test" expanded="True" selected="True">
+              <Node name="Demo_Portal_Integration_Test" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
               </Node>
             </Node>
           </Node>
